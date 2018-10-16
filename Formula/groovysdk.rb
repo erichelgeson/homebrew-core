@@ -1,8 +1,8 @@
 class Groovysdk < Formula
   desc "SDK for Groovy: a Java-based scripting language"
   homepage "http://www.groovy-lang.org"
-  url "https://dl.bintray.com/groovy/maven/apache-groovy-sdk-2.5.2.zip"
-  sha256 "82cf4f424a431b0ebab97e7302cfbe7c0b15cd5d2ff87cb0d9af5003e2ea247b"
+  url "https://dl.bintray.com/groovy/maven/apache-groovy-sdk-2.5.3.zip"
+  sha256 "47942bdb31a9f7ebf0db5b324bc99a289fd6ff87723e21e06f4701fa7c8c85c7"
 
   bottle :unneeded
 
